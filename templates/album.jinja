@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{data.label("en")}} | Musicalia</title>
+
+    {% include "_head.jinja" %}
+</head>
+<body class="content">
+    {% include "_nav.jinja" %}
+
+    <div class="container mt-3">
+        <div class="border-bottom text-muted mb-2">album /
+            <a href="https://www.wikidata.org/wiki/{{data.qid}}" target="_blank" style="color: inherit;">{{data.qid}}</a>
+        </div>
+
+        <div class="d-flex flex-column gap-1">
+            <div class="d-flex flex-column">
+                <h3 class="mb-0 text-body-secondary">{% for i, x in enumerate(artist) %}{% if i >= 1 %}& {% endif %}
+                    <a href="/artist/{{x[0]}}" class="link-underline-opacity-0 link-underline-opacity-100-hover" style="color: inherit;">{{x[1]}}</a>{% endfor %}</h3>
+                <h1 class="mb-0">{{data.label("en")}}</h1>
+            </div>
+
+            <div class="d-flex flex-row justify-content-center">
+                <div class="p-2">
+                    <img src="{{img}}" width="300" />
+                </div>
+                <div class="p-2">{% set classes = "text-muted fs-6 ps-2" %}
+                    <div>{{data.claim("P577", "one")}} <span class="{{classes}}">released</span></div>
+                    <div>LP <span class="{{classes}}">format</span></div>
+                    <div>{{data.claim("P264")}} <span class="{{classes}}">label</span></div>
+                    <div>
+                        <span id="genres">{% for i in range(1, 6) %}<a id="genre_{{ str(i).zfill(2) }}" style="color: inherit;"></a>{% endfor %}
+                        </span>
+                        <span class="{{classes}}">genres</span>
+                    </div>
+                </div>
+            </div>
+
+            <div id="wikipedia">{{wikipedia.lead.replace("</p>", "")}} {% if wikipedia.lead %}(<a href="https://en.wikipedia.org/wiki/{{wikipedia.page}}" target="_blank">Read more on English Wikipedia</a>){% endif %}</div>
+        </div>
+
+        <table class="table">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Length</th>
+            </tr>
+            {% for i, x in enumerate(tracklist) %}<tr>
+                <td>{{i + 1}}</td>
+                <td><a href="/song/{{x[0]}}">{{x[0]}}</a></td>
+                <td></td>
+            </tr>{% endfor %}
+        </table>
+
+        <div id="external-links" class="d-flex gap-1 justify-content-center">
+            <a id="P2205"></a>
+            <a id="P2281"></a>
+            <a id="P2723"></a>
+            <a id="P4577"></a>
+            <a id="P1954"></a>
+            <a id="P3192"></a>
+            <a id="P7067"></a>
+            <a id="P8392"></a>
+            <a id="P1729"></a>
+            <a id="P6217"></a>
+        </div>
+    </div>
+    <meta name="json:data" value="{{json_data}}" />
+</body>
+</html>

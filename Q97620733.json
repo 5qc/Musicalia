@@ -1,0 +1,3734 @@
+{
+    "pageid": 96004877,
+    "ns": 0,
+    "title": "Q97620733",
+    "lastrevid": 2468818080,
+    "modified": "2026-03-02T20:57:34Z",
+    "type": "item",
+    "id": "Q97620733",
+    "labels": {
+        "tr": {
+            "language": "tr",
+            "value": "Folklore"
+        },
+        "en": {
+            "language": "en",
+            "value": "Folklore"
+        },
+        "it": {
+            "language": "it",
+            "value": "Folklore"
+        },
+        "es": {
+            "language": "es",
+            "value": "Folklore"
+        },
+        "fr": {
+            "language": "fr",
+            "value": "Folklore"
+        },
+        "pt": {
+            "language": "pt",
+            "value": "Folklore"
+        },
+        "fa": {
+            "language": "fa",
+            "value": "\u0641\u0648\u0644\u06a9\u0648\u0631"
+        },
+        "pt-br": {
+            "language": "pt-br",
+            "value": "Folklore"
+        },
+        "de": {
+            "language": "de",
+            "value": "Folklore"
+        },
+        "nl": {
+            "language": "nl",
+            "value": "Folklore"
+        },
+        "bn": {
+            "language": "bn",
+            "value": "\u09ab\u09cb\u0995\u09b2\u09cb\u09b0"
+        },
+        "fi": {
+            "language": "fi",
+            "value": "Folklore"
+        },
+        "af": {
+            "language": "af",
+            "value": "Folklore"
+        },
+        "id": {
+            "language": "id",
+            "value": "Folklore"
+        },
+        "ca": {
+            "language": "ca",
+            "value": "Folklore"
+        },
+        "pl": {
+            "language": "pl",
+            "value": "Folklore"
+        },
+        "cs": {
+            "language": "cs",
+            "value": "Folklore"
+        },
+        "sk": {
+            "language": "sk",
+            "value": "Folklore"
+        },
+        "vi": {
+            "language": "vi",
+            "value": "Folklore"
+        },
+        "ro": {
+            "language": "ro",
+            "value": "Folklore"
+        },
+        "hr": {
+            "language": "hr",
+            "value": "Folklore"
+        },
+        "zh": {
+            "language": "zh",
+            "value": "\u6c11\u95f4\u4f20\u8bf4"
+        },
+        "ja": {
+            "language": "ja",
+            "value": "\u30d5\u30a9\u30fc\u30af\u30ed\u30a2"
+        },
+        "hy": {
+            "language": "hy",
+            "value": "Folklore"
+        },
+        "ru": {
+            "language": "ru",
+            "value": "Folklore"
+        },
+        "he": {
+            "language": "he",
+            "value": "Folklore"
+        },
+        "be": {
+            "language": "be",
+            "value": "Folklore"
+        },
+        "th": {
+            "language": "th",
+            "value": "\u0e42\u0e1f\u0e25\u0e4c\u0e01\u0e25\u0e2d\u0e23\u0e4c"
+        },
+        "ko": {
+            "language": "ko",
+            "value": "folklore"
+        },
+        "nb": {
+            "language": "nb",
+            "value": "Folklore"
+        },
+        "ar": {
+            "language": "ar",
+            "value": "\u0641\u0648\u0643\u0644\u0648\u0631"
+        },
+        "el": {
+            "language": "el",
+            "value": "Folklore"
+        },
+        "ka": {
+            "language": "ka",
+            "value": "Folklore"
+        },
+        "es-419": {
+            "language": "es-419",
+            "value": "Folklore"
+        },
+        "uk": {
+            "language": "uk",
+            "value": "Folklore"
+        },
+        "ceb": {
+            "language": "ceb",
+            "value": "Folklore"
+        },
+        "hyw": {
+            "language": "hyw",
+            "value": "Folklore"
+        },
+        "hu": {
+            "language": "hu",
+            "value": "Folklore"
+        },
+        "is": {
+            "language": "is",
+            "value": "Folklore"
+        },
+        "ms": {
+            "language": "ms",
+            "value": "Folklore"
+        },
+        "lt": {
+            "language": "lt",
+            "value": "Folklore"
+        },
+        "aa": {
+            "language": "aa",
+            "value": "Folklore"
+        },
+        "ace": {
+            "language": "ace",
+            "value": "Folklore"
+        },
+        "ak": {
+            "language": "ak",
+            "value": "Folklore"
+        },
+        "aln": {
+            "language": "aln",
+            "value": "Folklore"
+        },
+        "an": {
+            "language": "an",
+            "value": "Folklore"
+        },
+        "arn": {
+            "language": "arn",
+            "value": "Folklore"
+        },
+        "ast": {
+            "language": "ast",
+            "value": "Folklore"
+        },
+        "atj": {
+            "language": "atj",
+            "value": "Folklore"
+        },
+        "avk": {
+            "language": "avk",
+            "value": "Folklore"
+        },
+        "ay": {
+            "language": "ay",
+            "value": "Folklore"
+        },
+        "ban": {
+            "language": "ban",
+            "value": "Folklore"
+        },
+        "bar": {
+            "language": "bar",
+            "value": "Folklore"
+        },
+        "bbc": {
+            "language": "bbc",
+            "value": "Folklore"
+        },
+        "bcl": {
+            "language": "bcl",
+            "value": "Folklore"
+        },
+        "bi": {
+            "language": "bi",
+            "value": "Folklore"
+        },
+        "bm": {
+            "language": "bm",
+            "value": "Folklore"
+        },
+        "br": {
+            "language": "br",
+            "value": "Folklore"
+        },
+        "bto": {
+            "language": "bto",
+            "value": "Folklore"
+        },
+        "cbk-zam": {
+            "language": "cbk-zam",
+            "value": "Folklore"
+        },
+        "ch": {
+            "language": "ch",
+            "value": "Folklore"
+        },
+        "cho": {
+            "language": "cho",
+            "value": "Folklore"
+        },
+        "chy": {
+            "language": "chy",
+            "value": "Folklore"
+        },
+        "co": {
+            "language": "co",
+            "value": "Folklore"
+        },
+        "cps": {
+            "language": "cps",
+            "value": "Folklore"
+        },
+        "crh-latn": {
+            "language": "crh-latn",
+            "value": "Folklore"
+        },
+        "csb": {
+            "language": "csb",
+            "value": "Folklore"
+        },
+        "cy": {
+            "language": "cy",
+            "value": "Folklore"
+        },
+        "da": {
+            "language": "da",
+            "value": "Folklore"
+        },
+        "de-at": {
+            "language": "de-at",
+            "value": "Folklore"
+        },
+        "de-ch": {
+            "language": "de-ch",
+            "value": "Folklore"
+        },
+        "din": {
+            "language": "din",
+            "value": "Folklore"
+        },
+        "dsb": {
+            "language": "dsb",
+            "value": "Folklore"
+        },
+        "dtp": {
+            "language": "dtp",
+            "value": "Folklore"
+        },
+        "ee": {
+            "language": "ee",
+            "value": "Folklore"
+        },
+        "egl": {
+            "language": "egl",
+            "value": "Folklore"
+        },
+        "eml": {
+            "language": "eml",
+            "value": "Folklore"
+        },
+        "en-ca": {
+            "language": "en-ca",
+            "value": "Folklore"
+        },
+        "en-gb": {
+            "language": "en-gb",
+            "value": "Folklore"
+        },
+        "eo": {
+            "language": "eo",
+            "value": "Folklore"
+        },
+        "et": {
+            "language": "et",
+            "value": "Folklore"
+        },
+        "eu": {
+            "language": "eu",
+            "value": "Folklore"
+        },
+        "ext": {
+            "language": "ext",
+            "value": "Folklore"
+        },
+        "ff": {
+            "language": "ff",
+            "value": "Folklore"
+        },
+        "fit": {
+            "language": "fit",
+            "value": "Folklore"
+        },
+        "fj": {
+            "language": "fj",
+            "value": "Folklore"
+        },
+        "fo": {
+            "language": "fo",
+            "value": "Folklore"
+        },
+        "frc": {
+            "language": "frc",
+            "value": "Folklore"
+        },
+        "frp": {
+            "language": "frp",
+            "value": "Folklore"
+        },
+        "frr": {
+            "language": "frr",
+            "value": "Folklore"
+        },
+        "fur": {
+            "language": "fur",
+            "value": "Folklore"
+        },
+        "fy": {
+            "language": "fy",
+            "value": "Folklore"
+        },
+        "ga": {
+            "language": "ga",
+            "value": "Folklore"
+        },
+        "gag": {
+            "language": "gag",
+            "value": "Folklore"
+        },
+        "gd": {
+            "language": "gd",
+            "value": "Folklore"
+        },
+        "gl": {
+            "language": "gl",
+            "value": "Folklore"
+        },
+        "gn": {
+            "language": "gn",
+            "value": "Folklore"
+        },
+        "gor": {
+            "language": "gor",
+            "value": "Folklore"
+        },
+        "gsw": {
+            "language": "gsw",
+            "value": "Folklore"
+        },
+        "gv": {
+            "language": "gv",
+            "value": "Folklore"
+        },
+        "ha": {
+            "language": "ha",
+            "value": "Folklore"
+        },
+        "haw": {
+            "language": "haw",
+            "value": "Folklore"
+        },
+        "hif": {
+            "language": "hif",
+            "value": "Folklore"
+        },
+        "hil": {
+            "language": "hil",
+            "value": "Folklore"
+        },
+        "ho": {
+            "language": "ho",
+            "value": "Folklore"
+        },
+        "hrx": {
+            "language": "hrx",
+            "value": "Folklore"
+        },
+        "hsb": {
+            "language": "hsb",
+            "value": "Folklore"
+        },
+        "ht": {
+            "language": "ht",
+            "value": "Folklore"
+        },
+        "hz": {
+            "language": "hz",
+            "value": "Folklore"
+        },
+        "ia": {
+            "language": "ia",
+            "value": "Folklore"
+        },
+        "ie": {
+            "language": "ie",
+            "value": "Folklore"
+        },
+        "ig": {
+            "language": "ig",
+            "value": "Folklore"
+        },
+        "ik": {
+            "language": "ik",
+            "value": "Folklore"
+        },
+        "ilo": {
+            "language": "ilo",
+            "value": "Folklore"
+        },
+        "io": {
+            "language": "io",
+            "value": "Folklore"
+        },
+        "jam": {
+            "language": "jam",
+            "value": "Folklore"
+        },
+        "jut": {
+            "language": "jut",
+            "value": "Folklore"
+        },
+        "jv": {
+            "language": "jv",
+            "value": "Folklore"
+        },
+        "kaa": {
+            "language": "kaa",
+            "value": "Folklore"
+        },
+        "kab": {
+            "language": "kab",
+            "value": "Folklore"
+        },
+        "kbp": {
+            "language": "kbp",
+            "value": "Folklore"
+        },
+        "kea": {
+            "language": "kea",
+            "value": "Folklore"
+        },
+        "kg": {
+            "language": "kg",
+            "value": "Folklore"
+        },
+        "ki": {
+            "language": "ki",
+            "value": "Folklore"
+        },
+        "kj": {
+            "language": "kj",
+            "value": "Folklore"
+        },
+        "kk-latn": {
+            "language": "kk-latn",
+            "value": "Folklore"
+        },
+        "kl": {
+            "language": "kl",
+            "value": "Folklore"
+        },
+        "kr": {
+            "language": "kr",
+            "value": "Folklore"
+        },
+        "kri": {
+            "language": "kri",
+            "value": "Folklore"
+        },
+        "krj": {
+            "language": "krj",
+            "value": "Folklore"
+        },
+        "krl": {
+            "language": "krl",
+            "value": "Folklore"
+        },
+        "ksh": {
+            "language": "ksh",
+            "value": "Folklore"
+        },
+        "kw": {
+            "language": "kw",
+            "value": "Folklore"
+        },
+        "lad": {
+            "language": "lad",
+            "value": "Folklore"
+        },
+        "lb": {
+            "language": "lb",
+            "value": "Folklore"
+        },
+        "lfn": {
+            "language": "lfn",
+            "value": "Folklore"
+        },
+        "lg": {
+            "language": "lg",
+            "value": "Folklore"
+        },
+        "li": {
+            "language": "li",
+            "value": "Folklore"
+        },
+        "lij": {
+            "language": "lij",
+            "value": "Folklore"
+        },
+        "lmo": {
+            "language": "lmo",
+            "value": "Folklore"
+        },
+        "ln": {
+            "language": "ln",
+            "value": "Folklore"
+        },
+        "lv": {
+            "language": "lv",
+            "value": "Folklore"
+        },
+        "map-bms": {
+            "language": "map-bms",
+            "value": "Folklore"
+        },
+        "mg": {
+            "language": "mg",
+            "value": "Folklore"
+        },
+        "mh": {
+            "language": "mh",
+            "value": "Folklore"
+        },
+        "mi": {
+            "language": "mi",
+            "value": "Folklore"
+        },
+        "mt": {
+            "language": "mt",
+            "value": "Folklore"
+        },
+        "mus": {
+            "language": "mus",
+            "value": "Folklore"
+        },
+        "mwl": {
+            "language": "mwl",
+            "value": "Folklore"
+        },
+        "na": {
+            "language": "na",
+            "value": "Folklore"
+        },
+        "nah": {
+            "language": "nah",
+            "value": "Folklore"
+        },
+        "nap": {
+            "language": "nap",
+            "value": "Folklore"
+        },
+        "nds": {
+            "language": "nds",
+            "value": "Folklore"
+        },
+        "nds-nl": {
+            "language": "nds-nl",
+            "value": "Folklore"
+        },
+        "ng": {
+            "language": "ng",
+            "value": "Folklore"
+        },
+        "niu": {
+            "language": "niu",
+            "value": "Folklore"
+        },
+        "nn": {
+            "language": "nn",
+            "value": "Folklore"
+        },
+        "nov": {
+            "language": "nov",
+            "value": "Folklore"
+        },
+        "nrm": {
+            "language": "nrm",
+            "value": "Folklore"
+        },
+        "nso": {
+            "language": "nso",
+            "value": "Folklore"
+        },
+        "nv": {
+            "language": "nv",
+            "value": "Folklore"
+        },
+        "ny": {
+            "language": "ny",
+            "value": "Folklore"
+        },
+        "nys": {
+            "language": "nys",
+            "value": "Folklore"
+        },
+        "oc": {
+            "language": "oc",
+            "value": "Folklore"
+        },
+        "olo": {
+            "language": "olo",
+            "value": "Folklore"
+        },
+        "pag": {
+            "language": "pag",
+            "value": "Folklore"
+        },
+        "pam": {
+            "language": "pam",
+            "value": "Folklore"
+        },
+        "pap": {
+            "language": "pap",
+            "value": "Folklore"
+        },
+        "pcd": {
+            "language": "pcd",
+            "value": "Folklore"
+        },
+        "pdc": {
+            "language": "pdc",
+            "value": "Folklore"
+        },
+        "pdt": {
+            "language": "pdt",
+            "value": "Folklore"
+        },
+        "pfl": {
+            "language": "pfl",
+            "value": "Folklore"
+        },
+        "pih": {
+            "language": "pih",
+            "value": "Folklore"
+        },
+        "pms": {
+            "language": "pms",
+            "value": "Folklore"
+        },
+        "prg": {
+            "language": "prg",
+            "value": "Folklore"
+        },
+        "qu": {
+            "language": "qu",
+            "value": "Folklore"
+        },
+        "qug": {
+            "language": "qug",
+            "value": "Folklore"
+        },
+        "rgn": {
+            "language": "rgn",
+            "value": "Folklore"
+        },
+        "rif": {
+            "language": "rif",
+            "value": "Folklore"
+        },
+        "rm": {
+            "language": "rm",
+            "value": "Folklore"
+        },
+        "rn": {
+            "language": "rn",
+            "value": "Folklore"
+        },
+        "roa-tara": {
+            "language": "roa-tara",
+            "value": "Folklore"
+        },
+        "rup": {
+            "language": "rup",
+            "value": "Folklore"
+        },
+        "rw": {
+            "language": "rw",
+            "value": "Folklore"
+        },
+        "sc": {
+            "language": "sc",
+            "value": "Folklore"
+        },
+        "scn": {
+            "language": "scn",
+            "value": "Folklore"
+        },
+        "sco": {
+            "language": "sco",
+            "value": "Folklore"
+        },
+        "sdc": {
+            "language": "sdc",
+            "value": "Folklore"
+        },
+        "se": {
+            "language": "se",
+            "value": "Folklore"
+        },
+        "sg": {
+            "language": "sg",
+            "value": "Folklore"
+        },
+        "sgs": {
+            "language": "sgs",
+            "value": "Folklore"
+        },
+        "sje": {
+            "language": "sje",
+            "value": "Folklore"
+        },
+        "sl": {
+            "language": "sl",
+            "value": "Folklore"
+        },
+        "sli": {
+            "language": "sli",
+            "value": "Folklore"
+        },
+        "sm": {
+            "language": "sm",
+            "value": "Folklore"
+        },
+        "sma": {
+            "language": "sma",
+            "value": "Folklore"
+        },
+        "smj": {
+            "language": "smj",
+            "value": "Folklore"
+        },
+        "sn": {
+            "language": "sn",
+            "value": "Folklore"
+        },
+        "so": {
+            "language": "so",
+            "value": "Folklore"
+        },
+        "sq": {
+            "language": "sq",
+            "value": "Folklore"
+        },
+        "srn": {
+            "language": "srn",
+            "value": "Folklore"
+        },
+        "srq": {
+            "language": "srq",
+            "value": "Folklore"
+        },
+        "ss": {
+            "language": "ss",
+            "value": "Folklore"
+        },
+        "st": {
+            "language": "st",
+            "value": "Folklore"
+        },
+        "stq": {
+            "language": "stq",
+            "value": "Folklore"
+        },
+        "su": {
+            "language": "su",
+            "value": "Folklore"
+        },
+        "sv": {
+            "language": "sv",
+            "value": "Folklore"
+        },
+        "sw": {
+            "language": "sw",
+            "value": "Folklore"
+        },
+        "szl": {
+            "language": "szl",
+            "value": "Folklore"
+        },
+        "tet": {
+            "language": "tet",
+            "value": "Folklore"
+        },
+        "tn": {
+            "language": "tn",
+            "value": "Folklore"
+        },
+        "to": {
+            "language": "to",
+            "value": "Folklore"
+        },
+        "tpi": {
+            "language": "tpi",
+            "value": "Folklore"
+        },
+        "ts": {
+            "language": "ts",
+            "value": "Folklore"
+        },
+        "tum": {
+            "language": "tum",
+            "value": "Folklore"
+        },
+        "tw": {
+            "language": "tw",
+            "value": "Folklore"
+        },
+        "ty": {
+            "language": "ty",
+            "value": "Folklore"
+        },
+        "ve": {
+            "language": "ve",
+            "value": "Folklore"
+        },
+        "vec": {
+            "language": "vec",
+            "value": "Folklore"
+        },
+        "vls": {
+            "language": "vls",
+            "value": "Folklore"
+        },
+        "vmf": {
+            "language": "vmf",
+            "value": "Folklore"
+        },
+        "vo": {
+            "language": "vo",
+            "value": "Folklore"
+        },
+        "vro": {
+            "language": "vro",
+            "value": "Folklore"
+        },
+        "wa": {
+            "language": "wa",
+            "value": "Folklore"
+        },
+        "war": {
+            "language": "war",
+            "value": "Folklore"
+        },
+        "wo": {
+            "language": "wo",
+            "value": "Folklore"
+        },
+        "xh": {
+            "language": "xh",
+            "value": "Folklore"
+        },
+        "yo": {
+            "language": "yo",
+            "value": "Folklore"
+        },
+        "zea": {
+            "language": "zea",
+            "value": "Folklore"
+        },
+        "zu": {
+            "language": "zu",
+            "value": "Folklore"
+        },
+        "az": {
+            "language": "az",
+            "value": "Folklore"
+        },
+        "mul": {
+            "language": "mul",
+            "value": "Folklore"
+        },
+        "sr": {
+            "language": "sr",
+            "value": "\u0424\u043e\u043b\u043a\u043b\u043e\u0440"
+        }
+    },
+    "descriptions": {
+        "it": {
+            "language": "it",
+            "value": "album di Taylor Swift del 2020"
+        },
+        "es": {
+            "language": "es",
+            "value": "octavo \u00e1lbum de Taylor Swift de 2020"
+        },
+        "en": {
+            "language": "en",
+            "value": "2020 studio album by Taylor Swift"
+        },
+        "fr": {
+            "language": "fr",
+            "value": "album de Taylor Swift, sorti en 2020"
+        },
+        "pt": {
+            "language": "pt",
+            "value": "\u00e1lbum de Taylor Swift de 2020"
+        },
+        "tr": {
+            "language": "tr",
+            "value": "Taylor Swift'in 8. St\u00fcdyo alb\u00fcm\u00fc"
+        },
+        "cs": {
+            "language": "cs",
+            "value": "album Taylor Swift"
+        },
+        "fa": {
+            "language": "fa",
+            "value": "\u0622\u0644\u0628\u0648\u0645 \u0627\u0633\u062a\u0648\u062f\u06cc\u0648\u06cc\u06cc \u062a\u06cc\u0644\u0648\u0631 \u0633\u0648\u0626\u06cc\u0641\u062a \u062f\u0631 \u0633\u0627\u0644 \u06f2\u06f0\u06f2\u06f0"
+        },
+        "zh": {
+            "language": "zh",
+            "value": "\u6cf0\u52d2\u7d722020\u5e74\u7684\u9304\u97f3\u5ba4\u5c08\u8f2f"
+        },
+        "pt-br": {
+            "language": "pt-br",
+            "value": "oitavo \u00e1lbum de est\u00fadio de Taylor Swift"
+        },
+        "nl": {
+            "language": "nl",
+            "value": "muziekalbum van Taylor Swift"
+        },
+        "fi": {
+            "language": "fi",
+            "value": "Taylor Swiftin albumi"
+        },
+        "af": {
+            "language": "af",
+            "value": "2020 ateljee album deur Taylor Swift"
+        },
+        "id": {
+            "language": "id",
+            "value": "album studio tahun 2020 oleh Taylor Swift"
+        },
+        "de": {
+            "language": "de",
+            "value": "achtes Studioalbum der US-amerikanischen S\u00e4ngerin Taylor Swift"
+        },
+        "pl": {
+            "language": "pl",
+            "value": "album Taylor Swift (2020)"
+        },
+        "ro": {
+            "language": "ro",
+            "value": "album de Taylor Swift"
+        },
+        "vi": {
+            "language": "vi",
+            "value": "album ph\u00f2ng thu n\u0103m 2020 c\u1ee7a Taylor Swift"
+        },
+        "ru": {
+            "language": "ru",
+            "value": "\u0430\u043b\u044c\u0431\u043e\u043c \u0422\u0435\u0439\u043b\u043e\u0440 \u0421\u0432\u0438\u0444\u0442 (2020)"
+        },
+        "he": {
+            "language": "he",
+            "value": "\u05d0\u05dc\u05d1\u05d5\u05dd \u05e9\u05dc \u05d8\u05d9\u05d9\u05dc\u05d5\u05e8 \u05e1\u05d5\u05d5\u05d9\u05e4\u05d8"
+        },
+        "zh-hans": {
+            "language": "zh-hans",
+            "value": "\u6cf0\u52d2\u65af\u5a01\u592b\u72792020\u5e74\u7684\u5f55\u97f3\u5ba4\u4e13\u8f91"
+        },
+        "es-419": {
+            "language": "es-419",
+            "value": "octavo alb\u00fam de taycloaca"
+        },
+        "be": {
+            "language": "be",
+            "value": "\u0430\u043b\u044c\u0431\u043e\u043c \u0422\u044d\u0439\u043b\u0430\u0440 \u0421\u0432\u0456\u0444\u0442 (2020)"
+        },
+        "hr": {
+            "language": "hr",
+            "value": "album Taylor Swift"
+        },
+        "sk": {
+            "language": "sk",
+            "value": "album Taylor Swift (2020)"
+        },
+        "uk": {
+            "language": "uk",
+            "value": "\u0430\u043b\u044c\u0431\u043e\u043c \u0422\u0435\u0439\u043b\u043e\u0440 \u0421\u0432\u0456\u0444\u0442 (2020)"
+        },
+        "is": {
+            "language": "is",
+            "value": "brei\u00f0sk\u00edfa Taylor Swift fr\u00e1 2020"
+        },
+        "th": {
+            "language": "th",
+            "value": "\u0e2a\u0e15\u0e39\u0e14\u0e34\u0e42\u0e2d\u0e2d\u0e31\u0e25\u0e1a\u0e31\u0e49\u0e21\u0e42\u0e14\u0e22\u0e40\u0e17\u0e22\u0e4c\u0e40\u0e25\u0e2d\u0e23\u0e4c \u0e2a\u0e27\u0e34\u0e1f\u0e15\u0e4c \u0e04.\u0e28. 2020"
+        },
+        "hu": {
+            "language": "hu",
+            "value": "Taylor Swift-album"
+        },
+        "ka": {
+            "language": "ka",
+            "value": "\u10e2\u10d4\u10d8\u10da\u10dd\u10e0 \u10e1\u10d5\u10d8\u10e4\u10e2\u10d8\u10e1 \u10d0\u10da\u10d1\u10dd\u10db\u10d8"
+        },
+        "ca": {
+            "language": "ca",
+            "value": "\u00e0lbum de Taylor Swift"
+        },
+        "ja": {
+            "language": "ja",
+            "value": "\u30c6\u30a4\u30e9\u30fc\u30fb\u30b9\u30a6\u30a3\u30d5\u30c8\u306e\u30a2\u30eb\u30d0\u30e0"
+        },
+        "ko": {
+            "language": "ko",
+            "value": "\ud14c\uc77c\ub7ec \uc2a4\uc704\ud504\ud2b8\uc758 \uc568\ubc94"
+        },
+        "sv": {
+            "language": "sv",
+            "value": "studioalbum fr\u00e5n 2024 av  Taylor Swift"
+        }
+    },
+    "aliases": {
+        "mul": [
+            {
+                "language": "mul",
+                "value": "Woodvale"
+            }
+        ],
+        "en": [
+            {
+                "language": "en",
+                "value": "Woodvale"
+            }
+        ],
+        "en-us": [
+            {
+                "language": "en-us",
+                "value": "Woodvale"
+            }
+        ],
+        "vi": [
+            {
+                "language": "vi",
+                "value": "Woodvale"
+            }
+        ],
+        "aa": [
+            {
+                "language": "aa",
+                "value": "Woodvale"
+            }
+        ],
+        "ace": [
+            {
+                "language": "ace",
+                "value": "Woodvale"
+            }
+        ],
+        "af": [
+            {
+                "language": "af",
+                "value": "Woodvale"
+            }
+        ],
+        "ak": [
+            {
+                "language": "ak",
+                "value": "Woodvale"
+            }
+        ],
+        "aln": [
+            {
+                "language": "aln",
+                "value": "Woodvale"
+            }
+        ],
+        "an": [
+            {
+                "language": "an",
+                "value": "Woodvale"
+            }
+        ],
+        "arn": [
+            {
+                "language": "arn",
+                "value": "Woodvale"
+            }
+        ]
+    },
+    "claims": {
+        "P31": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P31",
+                    "hash": "dc16d32b615bf1c6edf1919941065eedccacb8e4",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 482994,
+                            "id": "Q482994"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$6d7bd544-4f03-754d-6855-467664f79899",
+                "rank": "normal"
+            }
+        ],
+        "P175": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P175",
+                    "hash": "4b27f22dc2cb3e71ff538377207e9508e2be1e3c",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 26876,
+                            "id": "Q26876"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$b2156a85-410c-59b9-10f4-168118508c5b",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "e4011132371ba5917175190a9bf134ed7f174117",
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "hash": "510e514079f8a73f020b51904ea982643612c3d5",
+                                    "datavalue": {
+                                        "value": "https://www.vulture.com/2020/07/taylor-swift-surprise-new-album-folklore-single-cardigan.html",
+                                        "type": "string"
+                                    },
+                                    "datatype": "url"
+                                }
+                            ],
+                            "P1476": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P1476",
+                                    "hash": "cf890007810a53b5b097feb29b42636d82780e6d",
+                                    "datavalue": {
+                                        "value": {
+                                            "text": "Surprise! Taylor Swift Is Dropping a Quarantine Album Tonight",
+                                            "language": "en"
+                                        },
+                                        "type": "monolingualtext"
+                                    },
+                                    "datatype": "monolingualtext"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854",
+                            "P1476"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P577": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P577",
+                    "hash": "3bac7d2d074a7537d829489c1c20cd2bc25f7a7e",
+                    "datavalue": {
+                        "value": {
+                            "time": "+2020-07-24T00:00:00Z",
+                            "timezone": 0,
+                            "before": 0,
+                            "after": 0,
+                            "precision": 11,
+                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                    },
+                    "datatype": "time"
+                },
+                "type": "statement",
+                "id": "Q97620733$d9758352-4b52-b240-b45f-1e3a7fc94b80",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "5653e4e0ca01877b88400162b717f7a53a23f194",
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "hash": "f927395ed89486330e33cf639620bb486b8594ca",
+                                    "datavalue": {
+                                        "value": "https://www.goodmorningamerica.com/culture/story/taylor-swift-announces-album-folklore-debuts-tonight-71938472",
+                                        "type": "string"
+                                    },
+                                    "datatype": "url"
+                                }
+                            ],
+                            "P1476": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P1476",
+                                    "hash": "9cf1a1e8a0aadeb1c549853c54ad5839da3fb320",
+                                    "datavalue": {
+                                        "value": {
+                                            "text": "Taylor Swift announces new album, 'Folklore,' debuts tonight",
+                                            "language": "en"
+                                        },
+                                        "type": "monolingualtext"
+                                    },
+                                    "datatype": "monolingualtext"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854",
+                            "P1476"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P1476": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P1476",
+                    "hash": "f18d5faf635eef8667d4f16954dcab6ecc08cdc9",
+                    "datavalue": {
+                        "value": {
+                            "text": "Folklore",
+                            "language": "en"
+                        },
+                        "type": "monolingualtext"
+                    },
+                    "datatype": "monolingualtext"
+                },
+                "type": "statement",
+                "id": "Q97620733$b03ea07c-4347-b07f-7c21-f0090a62c022",
+                "rank": "normal"
+            }
+        ],
+        "P264": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P264",
+                    "hash": "dad37017a00fff99d83934fa310c6442f37a0a33",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 4413456,
+                            "id": "Q4413456"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$7d65cbd0-4dbf-f2e9-06b8-9b71d4f8a095",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "5653e4e0ca01877b88400162b717f7a53a23f194",
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "hash": "f927395ed89486330e33cf639620bb486b8594ca",
+                                    "datavalue": {
+                                        "value": "https://www.goodmorningamerica.com/culture/story/taylor-swift-announces-album-folklore-debuts-tonight-71938472",
+                                        "type": "string"
+                                    },
+                                    "datatype": "url"
+                                }
+                            ],
+                            "P1476": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P1476",
+                                    "hash": "9cf1a1e8a0aadeb1c549853c54ad5839da3fb320",
+                                    "datavalue": {
+                                        "value": {
+                                            "text": "Taylor Swift announces new album, 'Folklore,' debuts tonight",
+                                            "language": "en"
+                                        },
+                                        "type": "monolingualtext"
+                                    },
+                                    "datatype": "monolingualtext"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854",
+                            "P1476"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P7937": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P7937",
+                    "hash": "b736d0ddd58350a6f636c0daf4befdb4b6346897",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 208569,
+                            "id": "Q208569"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$b3be6b86-4bd9-1cde-6483-e25a02a2ea5d",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "5653e4e0ca01877b88400162b717f7a53a23f194",
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "hash": "f927395ed89486330e33cf639620bb486b8594ca",
+                                    "datavalue": {
+                                        "value": "https://www.goodmorningamerica.com/culture/story/taylor-swift-announces-album-folklore-debuts-tonight-71938472",
+                                        "type": "string"
+                                    },
+                                    "datatype": "url"
+                                }
+                            ],
+                            "P1476": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P1476",
+                                    "hash": "9cf1a1e8a0aadeb1c549853c54ad5839da3fb320",
+                                    "datavalue": {
+                                        "value": {
+                                            "text": "Taylor Swift announces new album, 'Folklore,' debuts tonight",
+                                            "language": "en"
+                                        },
+                                        "type": "monolingualtext"
+                                    },
+                                    "datatype": "monolingualtext"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854",
+                            "P1476"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P436": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P436",
+                    "hash": "1f05056e8ae1701a94dd606275963a03ae6bca9c",
+                    "datavalue": {
+                        "value": "f1d08326-c23b-4b43-be3b-20b33ab10bf6",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1810": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1810",
+                            "hash": "75209b5571b8d40b61e1ff70c8489d3c50bdade2",
+                            "datavalue": {
+                                "value": "folklore",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1810"
+                ],
+                "id": "Q97620733$05967d9b-4dda-126d-9320-58cefb3666cc",
+                "rank": "normal"
+            }
+        ],
+        "P407": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P407",
+                    "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 1860,
+                            "id": "Q1860"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$0a77919c-460b-0b95-dca1-da0633a83f77",
+                "rank": "normal"
+            }
+        ],
+        "P6217": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P6217",
+                    "hash": "413be0deff3ea53aaa75320bf08b94aad60d64e1",
+                    "datavalue": {
+                        "value": "Taylor-swift/Folklore",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$9e394b8b-4088-eef7-9a7e-0571afd16346",
+                "rank": "normal"
+            }
+        ],
+        "P361": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P361",
+                    "hash": "72992fc003c38e6a5854ae622f70348835f36137",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 56071488,
+                            "id": "Q56071488"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P155": [
+                        {
+                            "snaktype": "value",
+                            "property": "P155",
+                            "hash": "ba53a430c543c89c799ab35ab502d7b60c8cd3d5",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 93260811,
+                                    "id": "Q93260811"
+                                },
+                                "type": "wikibase-entityid"
+                            },
+                            "datatype": "wikibase-item"
+                        }
+                    ],
+                    "P156": [
+                        {
+                            "snaktype": "value",
+                            "property": "P156",
+                            "hash": "25464d9300afd59514e13e019ae5081b6f4f7b56",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 102356895,
+                                    "id": "Q102356895"
+                                },
+                                "type": "wikibase-entityid"
+                            },
+                            "datatype": "wikibase-item"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P155",
+                    "P156"
+                ],
+                "id": "Q97620733$a702355c-4952-7c1c-6b4f-d611cf49bb0e",
+                "rank": "normal"
+            }
+        ],
+        "P136": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P136",
+                    "hash": "6e1303451378221cfa99f67bd956253c10b0dbca",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 1317816,
+                            "id": "Q1317816"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$d9c0d07a-43c0-9ec5-8544-f1b8eff52759",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "11b69501216dbd9b939786ee0cdb967846b910b0",
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "hash": "2ffa9d00695efc0676a321e565b0eec62811b19e",
+                                    "datavalue": {
+                                        "value": "https://www.nme.com/en_au/reviews/taylor-swift-folklore-album-review-2714285",
+                                        "type": "string"
+                                    },
+                                    "datatype": "url"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ]
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P136",
+                    "hash": "0912929cc39449c6cf153f29b01566291f171b7b",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 11366,
+                            "id": "Q11366"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$2F3AC385-ABF5-446D-8428-C02A042FE29E",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "11b69501216dbd9b939786ee0cdb967846b910b0",
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "hash": "2ffa9d00695efc0676a321e565b0eec62811b19e",
+                                    "datavalue": {
+                                        "value": "https://www.nme.com/en_au/reviews/taylor-swift-folklore-album-review-2714285",
+                                        "type": "string"
+                                    },
+                                    "datatype": "url"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ]
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P136",
+                    "hash": "e27f7e171c76e9c54ae0bf8b629c16c56303d206",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 22991878,
+                            "id": "Q22991878"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$b7d81291-41e4-6b3a-1266-aeaa7fcbe77c",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "949a97987b99dd38841d2865f7a151683a25f553",
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "hash": "19c6a020c757e533eba876b890d5caf50fe86a72",
+                                    "datavalue": {
+                                        "value": "https://variety.com/2020/music/reviews/taylor-swift-folklore-album-review-1234715520/",
+                                        "type": "string"
+                                    },
+                                    "datatype": "url"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P1712": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P1712",
+                    "hash": "2bb8ee46dc2081bdc4788c2ce6c9cd877c0a65ab",
+                    "datavalue": {
+                        "value": "music/folklore/taylor-swift",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$ee456656-4329-1c1f-a64a-5d4ff8f756db",
+                "rank": "normal"
+            }
+        ],
+        "P2205": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P2205",
+                    "hash": "d1623aee02b29502570e72dbdada5d452a6be0cb",
+                    "datavalue": {
+                        "value": "2fenSS68JI1h4Fo296JfGr",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1810": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1810",
+                            "hash": "75209b5571b8d40b61e1ff70c8489d3c50bdade2",
+                            "datavalue": {
+                                "value": "folklore",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1810"
+                ],
+                "id": "Q97620733$a0d8f428-4d6e-e8c0-fbc4-79f2a663bab8",
+                "rank": "normal"
+            }
+        ],
+        "P2047": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P2047",
+                    "hash": "b528bda03c5ca5936ca9cf2672665b37a713e202",
+                    "datavalue": {
+                        "value": {
+                            "amount": "+3816",
+                            "unit": "http://www.wikidata.org/entity/Q11574"
+                        },
+                        "type": "quantity"
+                    },
+                    "datatype": "quantity"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P518": [
+                        {
+                            "snaktype": "value",
+                            "property": "P518",
+                            "hash": "e8c1bd852faba066ed999ca4a398a58bee7540d8",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 15982450,
+                                    "id": "Q15982450"
+                                },
+                                "type": "wikibase-entityid"
+                            },
+                            "datatype": "wikibase-item"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P518"
+                ],
+                "id": "Q97620733$0E18A276-2A94-49E3-B4A1-887E43B82A3F",
+                "rank": "normal"
+            }
+        ],
+        "P3962": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P3962",
+                    "hash": "3eb39cb7b7d29fc7d20f5ea07fdeb98b65d78ca3",
+                    "datavalue": {
+                        "value": "602435037943",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$7E2B1712-0B4C-4ECC-9DFB-D9B523B1C449",
+                "rank": "normal"
+            }
+        ],
+        "P2635": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P2635",
+                    "hash": "44aee68ffa9e156c3f6544cdafedef89a8faf18e",
+                    "datavalue": {
+                        "value": {
+                            "amount": "+16",
+                            "unit": "http://www.wikidata.org/entity/Q7302866"
+                        },
+                        "type": "quantity"
+                    },
+                    "datatype": "quantity"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P518": [
+                        {
+                            "snaktype": "value",
+                            "property": "P518",
+                            "hash": "e8c1bd852faba066ed999ca4a398a58bee7540d8",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 15982450,
+                                    "id": "Q15982450"
+                                },
+                                "type": "wikibase-entityid"
+                            },
+                            "datatype": "wikibase-item"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P518"
+                ],
+                "id": "Q97620733$B8FC073B-EC81-4556-BB27-2CF1B5DCB56B",
+                "rank": "normal"
+            }
+        ],
+        "P658": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "9efa783c9ca6e50d4e4597dbcc231357f77c3996",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653197,
+                            "id": "Q97653197"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "2a1ced1dca90648ea7e306acbadd74fc81a10722",
+                            "datavalue": {
+                                "value": "1",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$86464493-134B-4BC6-B312-CC20FF8623B3",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "9de4ab7e4211ab73f5dbf04b1fff88e69f8bd1e7",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653200,
+                            "id": "Q97653200"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "7241753c62a310cf84895620ea82250dcea65835",
+                            "datavalue": {
+                                "value": "2",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$6B6D9E44-D4BD-4AEA-B857-D0368C312686",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "328ce314f08e5aaed967b3fddcd145ee0c81011b",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653202,
+                            "id": "Q97653202"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "0e979f28bf306fefdcd352b4eb8dee5da2153a6d",
+                            "datavalue": {
+                                "value": "3",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$61FF02E5-D746-40D6-9F8A-76CFCB6FB592",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "e82a3ab1dd3e373a23a31d7eea6f126ffe054354",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653205,
+                            "id": "Q97653205"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "cbff8d4b3b7b35f905ef3147a7a6cb88845a774f",
+                            "datavalue": {
+                                "value": "4",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$8C8BEDCC-4F4C-4458-B61C-605CE97B17C7",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "316aab1e9e06eab6e6db4405f3cd6e03e6908e4a",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653208,
+                            "id": "Q97653208"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "ea4583c18f699186700d21642b477a2dc1d345c8",
+                            "datavalue": {
+                                "value": "5",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$FBAEF302-9A86-462E-9303-CE77F1AF9732",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "101cb380318b919d702b2b5ca14a92e65bddc0f6",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 136098368,
+                            "id": "Q136098368"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "32387bd293902a2430b5bb680033d36ecea00dd0",
+                            "datavalue": {
+                                "value": "6",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$A45ED609-570D-457F-AFE6-987D21ADE78F",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "21da16dc8f3c0187f5256722dfcb37c4f75bd29b",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653212,
+                            "id": "Q97653212"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "9a4403310d2d27312d0a93830981a1e51b735843",
+                            "datavalue": {
+                                "value": "7",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$4F23CACE-C67E-4E50-B636-84EF38AFE242",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "091d768d37b0980bbea83f66f8219bc0263d0dd1",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653217,
+                            "id": "Q97653217"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "94d4f77373c2051829a238495246b458b7737ef9",
+                            "datavalue": {
+                                "value": "8",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$28A88338-52A5-4A80-A183-A2897247C4BC",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "3b59da544fe24ac7739f0389e25ffeff3d67b6d9",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 136065369,
+                            "id": "Q136065369"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "a9a9c98c803f52f2debc2c74270b3bd0c1f753d9",
+                            "datavalue": {
+                                "value": "9",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$78FA89C4-879C-4AFB-84C2-0D57DC405A0A",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "d17a674a2b40b166ccfdabd06ebdede977bcd4af",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653223,
+                            "id": "Q97653223"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "51210afb13f62d7537a51c61ba9b9586db143c24",
+                            "datavalue": {
+                                "value": "10",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$8D8CE2D7-BFAA-4F90-8A7B-7CC6E22B6820",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "4a6daebeccb628f5e351ace7890c0c008e151c97",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653226,
+                            "id": "Q97653226"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "4fda4e2a606f90da339710b3368ca24eb2d05ec1",
+                            "datavalue": {
+                                "value": "11",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$C61C40D1-3BD7-441F-BFEA-A464ED69D61E",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "373691a729b2845206a45c1f48ded9bdad6fa53c",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653230,
+                            "id": "Q97653230"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "b1425a27074b51abb46a9cb949eb37d115c2204a",
+                            "datavalue": {
+                                "value": "12",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$41AE68F2-E195-47EC-970A-6C5DA46C03D1",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "e2e212f402fe5ac69cb3d0beb6ecb404ee0279ab",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653233,
+                            "id": "Q97653233"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "f156fb34fcce34ed7b7ab814d08b4f127f7d0c0a",
+                            "datavalue": {
+                                "value": "13",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$4168D888-0C19-4518-B4FF-2CF30D6D0F9D",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "a08683a2a48bbca1e90794fe773348ec9e031153",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653236,
+                            "id": "Q97653236"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "2c80382503f2260434d0a61f856e7202ac2ef14e",
+                            "datavalue": {
+                                "value": "14",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$D01445DC-C0BA-4F48-A42D-C898B642640F",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "3345579554a32aa6304f62c65b84bda9b879d6de",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97653239,
+                            "id": "Q97653239"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "1c30b5edfe37c20fba82e77d50973f05e0b11f6f",
+                            "datavalue": {
+                                "value": "15",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$7357C82F-419A-455B-A57C-5B04F1152BBB",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P658",
+                    "hash": "731833418e6ff14e3a47be60e7c8c69103d292ca",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 136065365,
+                            "id": "Q136065365"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P1545": [
+                        {
+                            "snaktype": "value",
+                            "property": "P1545",
+                            "hash": "fad4d36a0de768e4b914ae40a3ab93ff76802562",
+                            "datavalue": {
+                                "value": "16",
+                                "type": "string"
+                            },
+                            "datatype": "string"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P1545"
+                ],
+                "id": "Q97620733$173BD406-070A-44A5-9B20-3801D865C75C",
+                "rank": "normal"
+            }
+        ],
+        "P1954": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P1954",
+                    "hash": "2252d89cb87f74d1e84957039dd005f33fabeb88",
+                    "datavalue": {
+                        "value": "1777815",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$ce86f4ea-4890-94f4-06f8-48ca6501606a",
+                "rank": "normal"
+            }
+        ],
+        "P1729": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P1729",
+                    "hash": "2e57aeaa0e3445b39d0be75c96caad38131eb7b5",
+                    "datavalue": {
+                        "value": "mw0003408614",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P50": [
+                        {
+                            "snaktype": "value",
+                            "property": "P50",
+                            "hash": "66570749bf5566db5710bc1d648dc089dec225b8",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 976031,
+                                    "id": "Q976031"
+                                },
+                                "type": "wikibase-entityid"
+                            },
+                            "datatype": "wikibase-item"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P50"
+                ],
+                "id": "Q97620733$e330fb67-4d45-457f-02af-b67e20bc81ac",
+                "rank": "normal"
+            }
+        ],
+        "P1889": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P1889",
+                    "hash": "0b2bcc2eb8fbdfeb2acaa034ddd58b8d66da96ba",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 411261,
+                            "id": "Q411261"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$fe391ab0-4c1a-a9a8-616e-e6d211b00b46",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P1889",
+                    "hash": "856fa49764b38e14fcfbe04e4ae591c0d23f30ac",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 845703,
+                            "id": "Q845703"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$26cc549f-484b-6aec-68c7-c621e8e9a8d7",
+                "rank": "normal"
+            }
+        ],
+        "P4300": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P4300",
+                    "hash": "22cc0351c963c8d6fedac213207b83ce8437163e",
+                    "datavalue": {
+                        "value": "OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$0d0864c3-47aa-1af1-1615-93144c6a2163",
+                "rank": "normal"
+            }
+        ],
+        "P154": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P154",
+                    "hash": "77dbb9c2300f20304fc8f7f02d9ff34d1bc3405a",
+                    "datavalue": {
+                        "value": "TS folklore Wordmark.svg",
+                        "type": "string"
+                    },
+                    "datatype": "commonsMedia"
+                },
+                "type": "statement",
+                "id": "Q97620733$01d4e0ad-485a-d13b-f65c-c0f85d0261a7",
+                "rank": "normal"
+            }
+        ],
+        "P8856": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P8856",
+                    "hash": "ef1ccea473694cdff862ff6ae81bbf7ad1c51787",
+                    "datavalue": {
+                        "value": "2329-1598-2",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$f7e13a4f-570c-479e-9e54-ed57c78191e4",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "209b7f4590b2a85691a0e503e68f85652717da4d",
+                        "snaks": {
+                            "P143": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P143",
+                                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 328,
+                                            "id": "Q328"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ],
+                            "P4656": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P4656",
+                                    "hash": "b4d4dd9b81b9c681d3838dd09eb899d1cae381ca",
+                                    "datavalue": {
+                                        "value": "https://en.wikipedia.org/w/index.php?title=Folklore_%28Taylor_Swift_album%29&oldid=990613161",
+                                        "type": "string"
+                                    },
+                                    "datatype": "url"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P143",
+                            "P4656"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P3192": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P3192",
+                    "hash": "943e4b67582003bd549e5a97f7b3b960cab91d09",
+                    "datavalue": {
+                        "value": "Taylor+Swift/folklore",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$8a0ca1ab-49b7-8c6c-5169-5302ca77b118",
+                "rank": "normal"
+            }
+        ],
+        "P2671": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P2671",
+                    "hash": "24e780f25c683eefc4989d5b5394f064f4e23a16",
+                    "datavalue": {
+                        "value": "/g/11k5jxjw12",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$AAF12994-5031-490D-9982-27AA8D91ECAD",
+                "rank": "normal"
+            }
+        ],
+        "P166": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P166",
+                    "hash": "32def18c2eb813579c0ab8954655cb5714790adf",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 904528,
+                            "id": "Q904528"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                    "P585": [
+                        {
+                            "snaktype": "value",
+                            "property": "P585",
+                            "hash": "4a6fe7f861358928efef462e361b21704446d129",
+                            "datavalue": {
+                                "value": {
+                                    "time": "+2021-00-00T00:00:00Z",
+                                    "timezone": 0,
+                                    "before": 0,
+                                    "after": 0,
+                                    "precision": 9,
+                                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                },
+                                "type": "time"
+                            },
+                            "datatype": "time"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P585"
+                ],
+                "id": "Q97620733$edba67c3-4060-7b2c-54fe-6f5679eb6d6c",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "b630b558f9184fff3e58af4439f84356d22571f5",
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "hash": "397ff70e9bfc1e5eec764c535bccd651b860c8d9",
+                                    "datavalue": {
+                                        "value": "https://www.grammy.com/grammys/awards/63rd-annual-grammy-awards-2020",
+                                        "type": "string"
+                                    },
+                                    "datatype": "url"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P10138": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P10138",
+                    "hash": "615a6257ac8606988fadc9fc3aa5fc1c7f6c9a30",
+                    "datavalue": {
+                        "value": "ALrfpP9fxqZJP46",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$26993aac-4277-7285-928a-7e1266e254ec",
+                "rank": "normal"
+            }
+        ],
+        "P214": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P214",
+                    "hash": "0265a49208b38ff5a11389c5dee5c9a7570bd207",
+                    "datavalue": {
+                        "value": "1452163710049029700006",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$2e791822-433b-734d-b553-5111cff7aa32",
+                "rank": "normal"
+            }
+        ],
+        "P10262": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P10262",
+                    "hash": "1fbe161e61d79c9ed39cbd6e73573ceac34bde19",
+                    "datavalue": {
+                        "value": "423798",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$C8868E9E-5029-467F-AAB8-17D23D7463A6",
+                "rank": "normal"
+            }
+        ],
+        "P162": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P162",
+                    "hash": "12160004f4e2c8a335cd213de33fb7805c037f5a",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 4661964,
+                            "id": "Q4661964"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$C532243C-377A-4B86-B0F9-002EF89FF379",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "221f2dfc568365326ee7267eaeb914badcd548a7",
+                        "snaks": {
+                            "P813": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P813",
+                                    "hash": "15e0d5693b945460d0a0cef19a49528ad483147e",
+                                    "datavalue": {
+                                        "value": {
+                                            "time": "+2020-07-24T00:00:00Z",
+                                            "timezone": 0,
+                                            "before": 0,
+                                            "after": 0,
+                                            "precision": 11,
+                                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                        },
+                                        "type": "time"
+                                    },
+                                    "datatype": "time"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P813"
+                        ]
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P162",
+                    "hash": "6d2dcd4c0439a85cb3421a213c1bc7bf99332992",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 151304,
+                            "id": "Q151304"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$d6e42d03-43a0-38df-45c9-f9a758ec1c73",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "221f2dfc568365326ee7267eaeb914badcd548a7",
+                        "snaks": {
+                            "P813": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P813",
+                                    "hash": "15e0d5693b945460d0a0cef19a49528ad483147e",
+                                    "datavalue": {
+                                        "value": {
+                                            "time": "+2020-07-24T00:00:00Z",
+                                            "timezone": 0,
+                                            "before": 0,
+                                            "after": 0,
+                                            "precision": 11,
+                                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                        },
+                                        "type": "time"
+                                    },
+                                    "datatype": "time"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P813"
+                        ]
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P162",
+                    "hash": "9861fa24f8ad8544135981b6597bc3986051daf3",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 26876,
+                            "id": "Q26876"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$d5a3691b-45d6-16ff-7e04-1a59f3f5438b",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "221f2dfc568365326ee7267eaeb914badcd548a7",
+                        "snaks": {
+                            "P813": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P813",
+                                    "hash": "15e0d5693b945460d0a0cef19a49528ad483147e",
+                                    "datavalue": {
+                                        "value": {
+                                            "time": "+2020-07-24T00:00:00Z",
+                                            "timezone": 0,
+                                            "before": 0,
+                                            "after": 0,
+                                            "precision": 11,
+                                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                        },
+                                        "type": "time"
+                                    },
+                                    "datatype": "time"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P813"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P437": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P437",
+                    "hash": "a9e6303ba7f6a25dd0ce03e6c75f3c9e02b5f449",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 34467,
+                            "id": "Q34467"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$681c8f98-49aa-1245-f025-3a968cde4de5",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P437",
+                    "hash": "3237b53c4d3ec4ece3e5d87f4d44bf89b53fc119",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 6473564,
+                            "id": "Q6473564"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$97110623-51C9-45DA-91A0-D8BEAC9B62E8",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "1a7cfc3393b8109b9d4cf24f9401f34b45794fc2",
+                        "snaks": {
+                            "P813": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P813",
+                                    "hash": "46e2179d092803a1b602eaa7d92c871a31bcf715",
+                                    "datavalue": {
+                                        "value": {
+                                            "time": "+2024-10-20T00:00:00Z",
+                                            "timezone": 0,
+                                            "before": 0,
+                                            "after": 0,
+                                            "precision": 11,
+                                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                        },
+                                        "type": "time"
+                                    },
+                                    "datatype": "time"
+                                }
+                            ],
+                            "P248": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P248",
+                                    "hash": "2d7f8bce9d48b876e92fdcfa292d0420d22073ca",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 20056642,
+                                            "id": "Q20056642"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P813",
+                            "P248"
+                        ]
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P437",
+                    "hash": "f70c6290b338c4f54eeef6975007ab67318c09c8",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 15982450,
+                            "id": "Q15982450"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$0f007745-4a38-6f3c-b136-3c6d11f0e84d",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P437",
+                    "hash": "6ea336bfc354f0add421f02306e8e38ca7f800cf",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 149757,
+                            "id": "Q149757"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$d0551553-4871-f6c9-f6ed-06ab0737d81b",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P437",
+                    "hash": "4d82957d09d78c12a195d5fc40e16d643927f900",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 58959170,
+                            "id": "Q58959170"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q97620733$9db6fa71-45e4-ac43-c727-b9ab7e761fcf",
+                "rank": "normal"
+            }
+        ],
+        "P8435": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P8435",
+                    "hash": "3cc9ff8de86f8f6a933de8dde095ca81bead63e3",
+                    "datavalue": {
+                        "value": "12499",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$47956008-DE0E-4458-A258-A6D8C6CA3827",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "cca2433a7ef29b24c197f4f6ad972c9b56a9851b",
+                        "snaks": {
+                            "P813": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P813",
+                                    "hash": "2f859e6ec7f1a2cd628dcc9d56bf3c9f0298529b",
+                                    "datavalue": {
+                                        "value": {
+                                            "time": "+2023-07-16T00:00:00Z",
+                                            "timezone": 0,
+                                            "before": 0,
+                                            "after": 0,
+                                            "precision": 11,
+                                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                        },
+                                        "type": "time"
+                                    },
+                                    "datatype": "time"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P813"
+                        ]
+                    },
+                    {
+                        "hash": "617bb8a970843af00cccdb0aa7954de6a31efd03",
+                        "snaks": {
+                            "P248": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P248",
+                                    "hash": "46103a3d4927d44ee236a70d0e1f597d445b3970",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 4778122,
+                                            "id": "Q4778122"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P248"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P7067": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P7067",
+                    "hash": "08794a317a486f0cb97d9f69ce06e0b8a2cc8013",
+                    "datavalue": {
+                        "value": "264058",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$8b5ae843-4b11-38a9-d37c-80f9ac49dcc9",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "cca2433a7ef29b24c197f4f6ad972c9b56a9851b",
+                        "snaks": {
+                            "P813": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P813",
+                                    "hash": "2f859e6ec7f1a2cd628dcc9d56bf3c9f0298529b",
+                                    "datavalue": {
+                                        "value": {
+                                            "time": "+2023-07-16T00:00:00Z",
+                                            "timezone": 0,
+                                            "before": 0,
+                                            "after": 0,
+                                            "precision": 11,
+                                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                        },
+                                        "type": "time"
+                                    },
+                                    "datatype": "time"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P813"
+                        ]
+                    },
+                    {
+                        "hash": "3324855d3b972cb7774dcdd94d30dc2ea4340e0c",
+                        "snaks": {
+                            "P248": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P248",
+                                    "hash": "178d4a21ff312d13528af523647a2df2b154728a",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 48989591,
+                                            "id": "Q48989591"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P248"
+                        ]
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P7067",
+                    "hash": "644fd847319698f0ac5a00e8f733c9458c74b3c1",
+                    "datavalue": {
+                        "value": "271835",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$47C90D07-C945-494D-BA81-2FA73E357612",
+                "rank": "normal"
+            }
+        ],
+        "P8392": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P8392",
+                    "hash": "119bff188b64f73d5de2d7929044cd75818ccb67",
+                    "datavalue": {
+                        "value": "album/taylor-swift/folklore",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$23e6c726-449c-9ef4-564e-432b67455979",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "db3865eb965be55486046b333218ed993a5973b4",
+                        "snaks": {
+                            "P813": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P813",
+                                    "hash": "d120ca6c2a46e5b3a7b90ac5333957bdc7b976ea",
+                                    "datavalue": {
+                                        "value": {
+                                            "time": "+2023-07-22T00:00:00Z",
+                                            "timezone": 0,
+                                            "before": 0,
+                                            "after": 0,
+                                            "precision": 11,
+                                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                        },
+                                        "type": "time"
+                                    },
+                                    "datatype": "time"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P813"
+                        ]
+                    },
+                    {
+                        "hash": "06a5749c849b880cbc3302f9fc1b3015bd152de5",
+                        "snaks": {
+                            "P248": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P248",
+                                    "hash": "a246856e794da34cd61473ad378072c6a1472001",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 1145963,
+                                            "id": "Q1145963"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P248"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P2281": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P2281",
+                    "hash": "4310576386a28a574609b8b295327e2d67b11527",
+                    "datavalue": {
+                        "value": "1524801260",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$c3a3c6ad-4663-b922-b438-f37c272629e7",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "1a7cfc3393b8109b9d4cf24f9401f34b45794fc2",
+                        "snaks": {
+                            "P813": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P813",
+                                    "hash": "46e2179d092803a1b602eaa7d92c871a31bcf715",
+                                    "datavalue": {
+                                        "value": {
+                                            "time": "+2024-10-20T00:00:00Z",
+                                            "timezone": 0,
+                                            "before": 0,
+                                            "after": 0,
+                                            "precision": 11,
+                                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                        },
+                                        "type": "time"
+                                    },
+                                    "datatype": "time"
+                                }
+                            ],
+                            "P248": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P248",
+                                    "hash": "2d7f8bce9d48b876e92fdcfa292d0420d22073ca",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 20056642,
+                                            "id": "Q20056642"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P813",
+                            "P248"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P2723": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P2723",
+                    "hash": "3afeb336799a03116098d7cb73e93337b0b7b0e6",
+                    "datavalue": {
+                        "value": "162683632",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$e59cc14c-4e70-8f23-e489-4fd12f3ddffa",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "dbf089491143d0a9982ca5f9c25ef85d81ad0dfb",
+                        "snaks": {
+                            "P813": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P813",
+                                    "hash": "46e2179d092803a1b602eaa7d92c871a31bcf715",
+                                    "datavalue": {
+                                        "value": {
+                                            "time": "+2024-10-20T00:00:00Z",
+                                            "timezone": 0,
+                                            "before": 0,
+                                            "after": 0,
+                                            "precision": 11,
+                                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                        },
+                                        "type": "time"
+                                    },
+                                    "datatype": "time"
+                                }
+                            ],
+                            "P248": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P248",
+                                    "hash": "669d2ea2915cb4f6c07d6b0c0dc0d0931201ac37",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 602243,
+                                            "id": "Q602243"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P813",
+                            "P248"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P4577": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P4577",
+                    "hash": "480dea2f40da26443fac5c9d6408884a0abdb365",
+                    "datavalue": {
+                        "value": "149678928",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$091d8475-4a2f-528e-3d26-152b39e43f33",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "150549ce85edea7b58a41d5b0f0597ebe86bcb39",
+                        "snaks": {
+                            "P813": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P813",
+                                    "hash": "46e2179d092803a1b602eaa7d92c871a31bcf715",
+                                    "datavalue": {
+                                        "value": {
+                                            "time": "+2024-10-20T00:00:00Z",
+                                            "timezone": 0,
+                                            "before": 0,
+                                            "after": 0,
+                                            "precision": 11,
+                                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                                        },
+                                        "type": "time"
+                                    },
+                                    "datatype": "time"
+                                }
+                            ],
+                            "P248": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P248",
+                                    "hash": "310d3a72d19a2225928d9532769effd82a4e193f",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 19711013,
+                                            "id": "Q19711013"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P813",
+                            "P248"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P7143": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P7143",
+                    "hash": "baa3316c7edd25695ac207133a49eb4b83671b87",
+                    "datavalue": {
+                        "value": "156357",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q97620733$1D809511-93CC-4637-A0B1-FA57FC7312A5",
+                "rank": "normal"
+            }
+        ]
+    },
+    "sitelinks": {
+        "arwiki": {
+            "site": "arwiki",
+            "title": "\u0641\u0648\u0643\u0644\u0648\u0631 (\u0623\u0644\u0628\u0648\u0645 \u062a\u0627\u064a\u0644\u0648\u0631 \u0633\u0648\u064a\u0641\u062a)",
+            "badges": [],
+            "url": "https://ar.wikipedia.org/wiki/%D9%81%D9%88%D9%83%D9%84%D9%88%D8%B1_(%D8%A3%D9%84%D8%A8%D9%88%D9%85_%D8%AA%D8%A7%D9%8A%D9%84%D9%88%D8%B1_%D8%B3%D9%88%D9%8A%D9%81%D8%AA)"
+        },
+        "azwiki": {
+            "site": "azwiki",
+            "title": "Folklore",
+            "badges": [],
+            "url": "https://az.wikipedia.org/wiki/Folklore"
+        },
+        "bewiki": {
+            "site": "bewiki",
+            "title": "Folklore (\u0430\u043b\u044c\u0431\u043e\u043c \u0422\u044d\u0439\u043b\u0430\u0440 \u0421\u0432\u0456\u0444\u0442)",
+            "badges": [],
+            "url": "https://be.wikipedia.org/wiki/Folklore_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC_%D0%A2%D1%8D%D0%B9%D0%BB%D0%B0%D1%80_%D0%A1%D0%B2%D1%96%D1%84%D1%82)"
+        },
+        "cawiki": {
+            "site": "cawiki",
+            "title": "Folklore (\u00e0lbum de Taylor Swift)",
+            "badges": [],
+            "url": "https://ca.wikipedia.org/wiki/Folklore_(%C3%A0lbum_de_Taylor_Swift)"
+        },
+        "cebwiki": {
+            "site": "cebwiki",
+            "title": "Folklore (album)",
+            "badges": [],
+            "url": "https://ceb.wikipedia.org/wiki/Folklore_(album)"
+        },
+        "cswiki": {
+            "site": "cswiki",
+            "title": "Folklore (album, Taylor Swift)",
+            "badges": [],
+            "url": "https://cs.wikipedia.org/wiki/Folklore_(album,_Taylor_Swift)"
+        },
+        "dewiki": {
+            "site": "dewiki",
+            "title": "Folklore (Taylor-Swift-Album)",
+            "badges": [],
+            "url": "https://de.wikipedia.org/wiki/Folklore_(Taylor-Swift-Album)"
+        },
+        "elwiki": {
+            "site": "elwiki",
+            "title": "Folklore",
+            "badges": [],
+            "url": "https://el.wikipedia.org/wiki/Folklore"
+        },
+        "enwiki": {
+            "site": "enwiki",
+            "title": "Folklore (Taylor Swift album)",
+            "badges": [
+                "Q17437798"
+            ],
+            "url": "https://en.wikipedia.org/wiki/Folklore_(Taylor_Swift_album)"
+        },
+        "eswiki": {
+            "site": "eswiki",
+            "title": "Folklore (\u00e1lbum de Taylor Swift)",
+            "badges": [],
+            "url": "https://es.wikipedia.org/wiki/Folklore_(%C3%A1lbum_de_Taylor_Swift)"
+        },
+        "etwiki": {
+            "site": "etwiki",
+            "title": "Folklore (Taylor Swift)",
+            "badges": [],
+            "url": "https://et.wikipedia.org/wiki/Folklore_(Taylor_Swift)"
+        },
+        "fawiki": {
+            "site": "fawiki",
+            "title": "\u0641\u0648\u0644\u06a9\u0644\u0648\u0631 (\u0622\u0644\u0628\u0648\u0645 \u062a\u06cc\u0644\u0648\u0631 \u0633\u0648\u0626\u06cc\u0641\u062a)",
+            "badges": [],
+            "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%88%D9%84%DA%A9%D9%84%D9%88%D8%B1_(%D8%A2%D9%84%D8%A8%D9%88%D9%85_%D8%AA%DB%8C%D9%84%D9%88%D8%B1_%D8%B3%D9%88%D8%A6%DB%8C%D9%81%D8%AA)"
+        },
+        "fiwiki": {
+            "site": "fiwiki",
+            "title": "Folklore (Taylor Swiftin albumi)",
+            "badges": [
+                "Q17559452"
+            ],
+            "url": "https://fi.wikipedia.org/wiki/Folklore_(Taylor_Swiftin_albumi)"
+        },
+        "frwiki": {
+            "site": "frwiki",
+            "title": "Folklore (album de Taylor Swift)",
+            "badges": [
+                "Q17437798"
+            ],
+            "url": "https://fr.wikipedia.org/wiki/Folklore_(album_de_Taylor_Swift)"
+        },
+        "gawiki": {
+            "site": "gawiki",
+            "title": "Folklore (albam Taylor Swift)",
+            "badges": [],
+            "url": "https://ga.wikipedia.org/wiki/Folklore_(albam_Taylor_Swift)"
+        },
+        "hewiki": {
+            "site": "hewiki",
+            "title": "Folklore (\u05d0\u05dc\u05d1\u05d5\u05dd \u05e9\u05dc \u05d8\u05d9\u05d9\u05dc\u05d5\u05e8 \u05e1\u05d5\u05d5\u05d9\u05e4\u05d8)",
+            "badges": [
+                "Q17437796"
+            ],
+            "url": "https://he.wikipedia.org/wiki/Folklore_(%D7%90%D7%9C%D7%91%D7%95%D7%9D_%D7%A9%D7%9C_%D7%98%D7%99%D7%99%D7%9C%D7%95%D7%A8_%D7%A1%D7%95%D7%95%D7%99%D7%A4%D7%98)"
+        },
+        "hrwiki": {
+            "site": "hrwiki",
+            "title": "Folklore (album Taylor Swift)",
+            "badges": [],
+            "url": "https://hr.wikipedia.org/wiki/Folklore_(album_Taylor_Swift)"
+        },
+        "huwiki": {
+            "site": "huwiki",
+            "title": "Folklore (Taylor Swift-album)",
+            "badges": [],
+            "url": "https://hu.wikipedia.org/wiki/Folklore_(Taylor_Swift-album)"
+        },
+        "hywiki": {
+            "site": "hywiki",
+            "title": "Folklore",
+            "badges": [],
+            "url": "https://hy.wikipedia.org/wiki/Folklore"
+        },
+        "hywwiki": {
+            "site": "hywwiki",
+            "title": "Folklore (\u0561\u056c\u057a\u0578\u0574)",
+            "badges": [],
+            "url": "https://hyw.wikipedia.org/wiki/Folklore_(%D5%A1%D5%AC%D5%BA%D5%B8%D5%B4)"
+        },
+        "idwiki": {
+            "site": "idwiki",
+            "title": "Folklore (album Taylor Swift)",
+            "badges": [],
+            "url": "https://id.wikipedia.org/wiki/Folklore_(album_Taylor_Swift)"
+        },
+        "iswiki": {
+            "site": "iswiki",
+            "title": "Folklore (Taylor Swift plata)",
+            "badges": [],
+            "url": "https://is.wikipedia.org/wiki/Folklore_(Taylor_Swift_plata)"
+        },
+        "itwiki": {
+            "site": "itwiki",
+            "title": "Folklore (Taylor Swift)",
+            "badges": [],
+            "url": "https://it.wikipedia.org/wiki/Folklore_(Taylor_Swift)"
+        },
+        "jawiki": {
+            "site": "jawiki",
+            "title": "\u30d5\u30a9\u30fc\u30af\u30ed\u30a2 (\u30c6\u30a4\u30e9\u30fc\u30fb\u30b9\u30a6\u30a3\u30d5\u30c8\u306e\u30a2\u30eb\u30d0\u30e0)",
+            "badges": [],
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%AD%E3%82%A2_(%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%95%E3%83%88%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)"
+        },
+        "kawiki": {
+            "site": "kawiki",
+            "title": "Folklore (\u10d0\u10da\u10d1\u10dd\u10db\u10d8)",
+            "badges": [],
+            "url": "https://ka.wikipedia.org/wiki/Folklore_(%E1%83%90%E1%83%9A%E1%83%91%E1%83%9D%E1%83%9B%E1%83%98)"
+        },
+        "kowiki": {
+            "site": "kowiki",
+            "title": "Folklore (\ud14c\uc77c\ub7ec \uc2a4\uc704\ud504\ud2b8\uc758 \uc74c\ubc18)",
+            "badges": [],
+            "url": "https://ko.wikipedia.org/wiki/Folklore_(%ED%85%8C%EC%9D%BC%EB%9F%AC_%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%EC%9D%98_%EC%9D%8C%EB%B0%98)"
+        },
+        "ltwiki": {
+            "site": "ltwiki",
+            "title": "Folklore (Taylor Swift albumas)",
+            "badges": [],
+            "url": "https://lt.wikipedia.org/wiki/Folklore_(Taylor_Swift_albumas)"
+        },
+        "mswiki": {
+            "site": "mswiki",
+            "title": "Folklore (album Taylor Swift)",
+            "badges": [],
+            "url": "https://ms.wikipedia.org/wiki/Folklore_(album_Taylor_Swift)"
+        },
+        "nlwiki": {
+            "site": "nlwiki",
+            "title": "Folklore (Taylor Swift)",
+            "badges": [],
+            "url": "https://nl.wikipedia.org/wiki/Folklore_(Taylor_Swift)"
+        },
+        "plwiki": {
+            "site": "plwiki",
+            "title": "Folklore (album Taylor Swift)",
+            "badges": [],
+            "url": "https://pl.wikipedia.org/wiki/Folklore_(album_Taylor_Swift)"
+        },
+        "ptwiki": {
+            "site": "ptwiki",
+            "title": "Folklore (\u00e1lbum de Taylor Swift)",
+            "badges": [
+                "Q17437796"
+            ],
+            "url": "https://pt.wikipedia.org/wiki/Folklore_(%C3%A1lbum_de_Taylor_Swift)"
+        },
+        "rowiki": {
+            "site": "rowiki",
+            "title": "Folklore (album de Taylor Swift)",
+            "badges": [],
+            "url": "https://ro.wikipedia.org/wiki/Folklore_(album_de_Taylor_Swift)"
+        },
+        "ruwiki": {
+            "site": "ruwiki",
+            "title": "Folklore (\u0430\u043b\u044c\u0431\u043e\u043c \u0422\u0435\u0439\u043b\u043e\u0440 \u0421\u0432\u0438\u0444\u0442)",
+            "badges": [],
+            "url": "https://ru.wikipedia.org/wiki/Folklore_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC_%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80_%D0%A1%D0%B2%D0%B8%D1%84%D1%82)"
+        },
+        "simplewiki": {
+            "site": "simplewiki",
+            "title": "Folklore (album)",
+            "badges": [],
+            "url": "https://simple.wikipedia.org/wiki/Folklore_(album)"
+        },
+        "skwiki": {
+            "site": "skwiki",
+            "title": "Folklore (album)",
+            "badges": [],
+            "url": "https://sk.wikipedia.org/wiki/Folklore_(album)"
+        },
+        "svwiki": {
+            "site": "svwiki",
+            "title": "Folklore (musikalbum av Taylor Swift)",
+            "badges": [],
+            "url": "https://sv.wikipedia.org/wiki/Folklore_(musikalbum_av_Taylor_Swift)"
+        },
+        "thwiki": {
+            "site": "thwiki",
+            "title": "\u0e42\u0e1f\u0e25\u0e4c\u0e01\u0e25\u0e2d\u0e23\u0e4c (\u0e2d\u0e31\u0e25\u0e1a\u0e31\u0e49\u0e21\u0e40\u0e17\u0e22\u0e4c\u0e40\u0e25\u0e2d\u0e23\u0e4c \u0e2a\u0e27\u0e34\u0e1f\u0e15\u0e4c)",
+            "badges": [
+                "Q17437798"
+            ],
+            "url": "https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C_(%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%9A%E0%B8%B1%E0%B9%89%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%AA%E0%B8%A7%E0%B8%B4%E0%B8%9F%E0%B8%95%E0%B9%8C)"
+        },
+        "trwiki": {
+            "site": "trwiki",
+            "title": "Folklore (Taylor Swift alb\u00fcm\u00fc)",
+            "badges": [],
+            "url": "https://tr.wikipedia.org/wiki/Folklore_(Taylor_Swift_alb%C3%BCm%C3%BC)"
+        },
+        "ukwiki": {
+            "site": "ukwiki",
+            "title": "Folklore (\u0430\u043b\u044c\u0431\u043e\u043c \u0422\u0435\u0439\u043b\u043e\u0440 \u0421\u0432\u0456\u0444\u0442)",
+            "badges": [],
+            "url": "https://uk.wikipedia.org/wiki/Folklore_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC_%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80_%D0%A1%D0%B2%D1%96%D1%84%D1%82)"
+        },
+        "viwiki": {
+            "site": "viwiki",
+            "title": "Folklore (album)",
+            "badges": [
+                "Q17437798"
+            ],
+            "url": "https://vi.wikipedia.org/wiki/Folklore_(album)"
+        },
+        "zhwiki": {
+            "site": "zhwiki",
+            "title": "\u6c11\u95f4\u6545\u4e8b (\u6cf0\u52d2\u00b7\u65af\u5a01\u592b\u7279\u4e13\u8f91)",
+            "badges": [],
+            "url": "https://zh.wikipedia.org/wiki/%E6%B0%91%E9%97%B4%E6%95%85%E4%BA%8B_(%E6%B3%B0%E5%8B%92%C2%B7%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E4%B8%93%E8%BE%91)"
+        }
+    }
+}
