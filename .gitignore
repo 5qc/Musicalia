@@ -4,4 +4,4 @@ node_modules/
 
 # files
 .DS_Store
-x.json
+*.json
