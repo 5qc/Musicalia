@@ -1,1 +1,0 @@
-from musicalia.wikidata import Wd
